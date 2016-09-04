@@ -32,7 +32,7 @@ screenshot showing the operation of the system (browser/terminal).
 Currently the code is available on the platforms:
 * [NodeMCU](http://nodemcu.com/index_en.html) (Lua)
 * [Espruino](http://www.espruino.com/) (JavaScript)
-* [MicroPython](http://micropython.org/) (Python) (soon)
+* [MicroPython](http://micropython.org/) (Python)
 
 Presented code doesn't have to be of very high quality, author mainly focused on
 reviewing and testing given platform rather than creating high quality code.
